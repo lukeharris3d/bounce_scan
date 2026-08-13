@@ -1,4 +1,8 @@
-# bounce_scan
+template:
 
+https://superspl.at/editor?load={URL}&debug.overlay=false
 
-to come
+pages:
+
+https://lukeharris3d.github.io/bounce_scan/sog/*
+
